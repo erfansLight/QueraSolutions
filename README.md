@@ -1,4 +1,4 @@
-# :computer: QueraSolutions | <h2>جواب سوالات کوئرا</h2>
+# :computer: QueraSolutions | جواب سوالات کوئرا
 
 <div dir="rtl">
 
