@@ -1,5 +1,5 @@
 # :computer: QueraSolutions 
-جواب سوالات کوئرا
+<h2>جواب سوالات کوئرا</h2>
 
 <div dir="rtl">
 
